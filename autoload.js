@@ -1,6 +1,6 @@
 // 注意：live2d_path 参数应使用绝对路径
-const live2d_path = "https://cdn.jsdelivr.net/gh/dave0824/live2d-widget@1.0.0/";
-//const live2d_path = "/live2d-widget/";
+const live2d_path = "https://cdn.jsdelivr.net/gh/dave0824/live2d-widget@1.1.0/";
+//const live2d_path = "G:\\笔记\\blog\\live2d-widget\\";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
