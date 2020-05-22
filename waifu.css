@@ -81,7 +81,7 @@
 	color: #aaa;
 	opacity: 0;
 	position: absolute;
-	left: 10px; // 调整工具栏在看板娘左侧
+	left: -10px; // 调整工具栏在看板娘左侧
 	top: 70px;
 	transition: opacity 1s;
 }
